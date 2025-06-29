@@ -70,6 +70,9 @@ For testing purposes, you can use these demo accounts:
 
 - **Customer Account**: any@email.com (any password)
 - **Admin Account**: admin@shopsmart.com (any password)
+- ## 🎬 Demo Video
+
+[Click here to watch or download the demo](https://github.com/Vinaykrishna-dunaboyina/ShopSmart/releases/download/v1.0/demo.mp4)
 
 ## Project Structure
 
