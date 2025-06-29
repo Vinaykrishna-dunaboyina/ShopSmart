@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Apples",
+    "description": "Crisp and sweet apples",
+    "price": 49.99,
+    "image": "/images/apples.jpg",
+    "category": "Fruits",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Organic Milk",
+    "description": "1L organic cow milk",
+    "price": 29.50,
+    "image": "/images/milk.jpg",
+    "category": "Dairy",
+    "stock": 100
+  }
+]
